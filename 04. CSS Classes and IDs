@@ -1,0 +1,12 @@
+<style>
+  .title {
+    font-family: Garamond;
+  }
+
+  #intro {
+    font-family: Tahoma;
+  }
+</style>
+
+<h1 class="title">Using class</h1>
+<p id="intro">Using ID</p>
