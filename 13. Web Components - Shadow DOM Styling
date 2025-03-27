@@ -1,0 +1,8 @@
+<template id="myTemplate">
+  <style>
+    p {
+      font-family: 'Courier New';
+    }
+  </style>
+  <p>Shadow DOM styled text</p>
+</template>
