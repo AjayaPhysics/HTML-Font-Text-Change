@@ -1,0 +1,7 @@
+<head>
+  <script src="https://use.typekit.net/xyz123.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+</head>
+
+
+font-family: "adobe-font-name";
