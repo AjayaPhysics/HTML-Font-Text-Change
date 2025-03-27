@@ -1,0 +1,9 @@
+body {
+  font-family: Arial;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-family: sans-serif;
+  }
+}
