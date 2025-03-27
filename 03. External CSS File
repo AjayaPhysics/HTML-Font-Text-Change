@@ -1,0 +1,7 @@
+<link rel="stylesheet" href="style.css">
+<p class="custom-font">External font example</p>
+
+
+.custom-font {
+  font-family: 'Georgia', serif;
+}
