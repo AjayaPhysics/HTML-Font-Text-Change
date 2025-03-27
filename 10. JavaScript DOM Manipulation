@@ -1,0 +1,5 @@
+<script>
+  document.getElementById("myText").style.fontFamily = "Lucida Console";
+</script>
+
+<p id="myText">This will change using JS</p>
